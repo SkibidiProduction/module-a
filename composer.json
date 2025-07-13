@@ -1,0 +1,15 @@
+{
+    "name": "boneskhv/mod",
+    "autoload": {
+        "psr-4": {
+            "Boneskhv\\Mod\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei Nechaev",
+            "email": "omfg.rus@gmail.com"
+        }
+    ],
+    "require": {}
+}
